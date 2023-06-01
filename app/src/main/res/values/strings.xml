@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BoardGames</string>
+    <string name="game_list">Game List</string>
+    <string name="favourites">Favourites</string>
+    <string name="release_year">Release year: %1$s</string>
+    <string name="star_icon">Star icon</string>
+</resources>
